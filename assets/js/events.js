@@ -25,6 +25,3 @@ const createLoremIpsum = require("./helpers");
         )
         pageEl.appendChild(containerEl)
       } 
-
-    
-    
